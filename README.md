@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Word! I'm RehanFat 👋
+## Hello Word! I'm RehanFat 👋
 
 
 ## 🌐 Socials:
